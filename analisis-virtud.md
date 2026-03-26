@@ -7,7 +7,7 @@
 
 ### Etimología
 
-La palabra **"virtud"** proviene del latín *virtus*, que a su vez deriva de *vir* (hombre, varón). En su origen romano, *virtus* designaba la excelencia propia del hombre: valentía, fuerza moral y capacidad de actuar con rectitud. La raíz indoeuropea es *\*wī-ro-*, relacionada también con el sánscrito *vīra* (héroe, guerrero) y el inglés arcaico *were* (hombre). Con el paso del latín al español medieval (siglos XII-XIII), el término fue adoptado como *virtud*, amplificando su significado más allá del valor guerrero hacia toda excelencia moral.
+La palabra **"virtud"** proviene del latín *virtus*, que a su vez deriva de *vir* (hombre, varón). En su origen romano, *virtus* designaba la excelencia propia del hombre: valentía, fuerza moral y capacidad de actuar con rectitud. La raíz indoeuropea es *\*wī-ro-*, relacionada también con el sánscrito *vīra* (héroe, guerrero) y el inglés arcaico *were* (hombre). Con el paso del latín al español medieval (siglos XII-XIII), el término fue adoptado como *virtud*, ampliando su significado más allá del valor guerrero hacia toda excelencia moral.
 
 ### Significado General
 
